@@ -1,4 +1,4 @@
-package com.erkinalkan.testapplication;
+package com.batuhankırma.week4;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.erkinalkan.testapplication", appContext.getPackageName());
+        assertEquals("com.batuhankırma.week4", appContext.getPackageName());
     }
 }

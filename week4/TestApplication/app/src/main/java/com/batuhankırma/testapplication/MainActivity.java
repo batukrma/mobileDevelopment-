@@ -1,4 +1,4 @@
-package com.erkinalkan.testapplication;
+package com.batuhankırma.testapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 

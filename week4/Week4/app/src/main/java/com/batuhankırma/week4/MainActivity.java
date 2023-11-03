@@ -1,4 +1,4 @@
-package com.erkinalkan.week4;
+package com.batuhankırma.week4;
 
 import androidx.appcompat.app.AppCompatActivity;
 

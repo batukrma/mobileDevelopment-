@@ -1,4 +1,4 @@
-package com.erkinalkan.week4;
+package com.batuhankırma.testapplication;
 
 import org.junit.Test;
 
